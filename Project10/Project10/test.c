@@ -34,6 +34,7 @@ void print(int* arr, int sz)
 
 main()
 {
+	/*int arr[10] = { 5 };*/
 	int arr[] = { 1,2,3,4,5,6,7,8,9 ,10 };
 	//int sz = sizeof(arr) / sizeof(arr[0]);
 	//revese(arr, sz);
@@ -46,12 +47,12 @@ main()
 	//	printf("%d ", *(arr + i));
 	//}
 	//printf("\n");
-	//for (i = 0; i < 10; i++)
-	//{
-	//	printf("%d ", arr[i]);
-	//}
-	printf("%d \n", arr[2]);
-	printf("%d \n", 2[arr]);
+	for (i = 0; i < 10; i++)
+	{
+		printf("%d ", arr[i]);
+	}
+	//printf("%d \n", arr[2]);
+	//printf("%d \n", 2[arr]);
 
 
 
