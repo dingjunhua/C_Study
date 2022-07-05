@@ -1,0 +1,3 @@
+﻿  test.c
+D:\github\C_Study\Project17\Project17\test.c(63,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  Project17.vcxproj -> D:\github\C_Study\Project17\x64\Debug\Project17.exe
