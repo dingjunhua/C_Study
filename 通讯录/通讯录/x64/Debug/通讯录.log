@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\github\C_Study\通讯录\通讯录\contact.h(1,1): warning C4828: 文件包含在偏移 0x2b0 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c
+D:\github\C_Study\通讯录\通讯录\contact.h(1,1): warning C4828: 文件包含在偏移 0x2b0 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  通讯录.vcxproj -> D:\github\C_Study\通讯录\x64\Debug\通讯录.exe
