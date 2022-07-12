@@ -1,0 +1,4 @@
+任何C程序，在默认编译好之后，运行时，都会打开三个输入输出流：
+stdin:标准输入流 - FILE* stdin - 键盘 
+stdout:标准输出 - FILE* stdout - 屏幕
+stderr:标准错误 - FILE* stderr - 屏幕
