@@ -1,0 +1,4 @@
+﻿  test.c
+D:\github\C_Study\Project21\Project21\test.c(156,36): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\github\C_Study\Project21\Project21\test.c(157,37): warning C4311: “类型强制转换”: 从“char *”到“int”的指针截断
+  Project21.vcxproj -> D:\github\C_Study\Project21\x64\Debug\Project21.exe
